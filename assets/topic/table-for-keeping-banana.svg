@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;"
+	 xml:space="preserve">
+<g>
+	<g>
+		<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="70.2,111.7 70.2,111.9 61.5,113.4 61.5,113.3 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="70.2,116.4 70.2,212.7 61.5,214.5 61.5,117.9 		"/>
+	</g>
+	<g>
+		<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="180.2,92.4 180.2,92.5 174.3,93.6 174.3,93.4 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="180.2,96.9 180.2,146.6 174.4,141.6 174.3,98 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="188.1,91 188.1,91.1 180.3,92.5 180.3,92.4 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="188.1,95.6 188.1,144.9 180.3,146.6 180.3,96.9 		"/>
+	</g>
+	<g>
+		<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="240.4,81.8 240.4,81.9 234.3,83 234.3,82.9 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="234.3,87.3 240.4,86.3 240.4,183.1 234.3,178.1 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="248.4,84.8 248.4,181.4 240.4,183.1 240.5,86.3 		"/>
+	</g>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="61.4" y1="113.4" x2="60.6" y2="113.6"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="251.6,79.9 251.6,84.3 248.4,84.8 240.5,86.3 240.4,86.3 
+		234.3,87.3 188.1,95.6 180.3,96.9 180.2,96.9 174.3,98 70.2,116.4 61.5,117.9 61.4,117.9 61.4,214.5 54.8,209.1 54.8,113.3 
+		60.5,118.1 60.5,113.6 54.8,108.9 54.8,108.7 60.6,113.4 61.4,113.3 61.4,113.4 61.5,113.4 70.2,111.9 174.3,93.6 180.2,92.5 
+		180.3,92.5 188.1,91.1 234.3,83 240.4,81.9 	"/>
+	<polyline style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="60.6,113.6 60.6,118.1 61.4,117.9 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="15.1,76.7 15.1,76.8 9.2,71.9 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="15.1,80.6 15.1,173.8 9.1,168.9 9.1,75.6 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="23.2,87.2 23.1,171.9 15.3,173.8 15.3,80.7 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="23.2,83.2 23.2,83.3 15.4,76.9 15.4,76.8 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="9.1,71.8 6.3,69.5 6.3,69.5 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="60.5,113.6 60.5,118.1 54.8,113.3 23.2,87.2 15.3,80.7 
+		15.1,80.6 9.1,75.6 6.2,73.2 6.2,69.4 6.3,69.5 6.3,69.5 9.1,71.8 9.2,71.9 15.1,76.8 15.4,76.9 23.2,83.3 54.8,108.9 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="251.9,79.8 240.4,81.8 234.3,82.9 188.1,91 180.3,92.4 
+		180.2,92.4 174.3,93.4 70.2,111.7 61.5,113.3 61.4,113.3 60.6,113.4 54.8,108.7 23.2,83.2 15.4,76.8 15.1,76.7 9.2,71.9 9.1,71.8 
+		6.3,69.5 182.9,38.7 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="9.1,71.8 6.3,69.5 6.3,69.5 	"/>
+</g>
+</svg>

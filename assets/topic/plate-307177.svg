@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;"
+	 xml:space="preserve">
+<radialGradient id="SVGID_1_" cx="-125.1743" cy="2885.843" r="320.25" gradientTransform="matrix(0.3995 0 0 -0.1066 205.3003 760.869)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#2B2B2B"/>
+	<stop  offset="1" style="stop-color:#666666"/>
+	<a:midPointStop  offset="0" style="stop-color:#2B2B2B"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#2B2B2B"/>
+	<a:midPointStop  offset="1" style="stop-color:#666666"/>
+</radialGradient>
+<path style="fill:url(#SVGID_1_);" d="M215.3,135.2c0,19.4-21.7,30.7-87.3,30.7c-65.7,0-86.1-8.9-86.1-28.3s20.9-41.9,86.5-41.9
+	C194,95.7,215.3,115.8,215.3,135.2L215.3,135.2z"/>
+<path style="fill:#F2F2F2;" d="M255.4,126.4c0,18.7-57.2,33.9-127.7,33.9S0,145.1,0,126.4s57.2-33.9,127.7-33.9
+	S255.4,107.7,255.4,126.4z"/>
+<path style="fill:#BFBFBF;" d="M256,123.9c0,18.7-57.2,33.9-127.7,33.9c-70.5,0-127.7-15.2-127.7-33.9C0.6,105.2,57.8,90,128.3,90
+	C198.8,90,256,105.2,256,123.9z"/>
+<path style="fill:#E5E5E5;stroke:#999999;stroke-width:5.478;" d="M215.2,125.8c0,9.7-38.3,17.6-85.6,17.6s-85.6-7.9-85.6-17.6
+	s38.3-17.6,85.6-17.6S215.2,116.1,215.2,125.8z"/>
+</svg>

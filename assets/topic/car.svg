@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;"
+	 xml:space="preserve">
+<path style="fill:#FFB902;stroke:#2E6634;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+	M9.4,177.3c-4.7-1.2-4.7-5.9-4.7-5.9v-19.9c11.7-29.3,60.9-23.4,60.9-23.4c6.1-5.8,12.5-10.4,18.8-14.1c16.1-9.4,34.6-14,53.2-14
+	h51.6c6.1,0,12.2,0.6,18.2,1.9c35.8,7.8,39.7,29.7,39.7,29.7v17.6l4.7,5.9v10.5c-3,7.1-18,8.2-18,8.2L9.4,177.3z"/>
+<circle style="fill:#FCFCFC;stroke:#2E6634;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" cx="48.5" cy="176.6" r="19.4"/>
+<circle style="fill:#FCFCFC;stroke:#2E6634;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" cx="208.8" cy="176.6" r="19.4"/>
+<path style="fill:#FCFCFC;stroke:#2E6634;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+	M77.6,128.9h54.2v-22.1C110.2,108.7,92.7,116.9,77.6,128.9z"/>
+<path style="fill:#FCFCFC;stroke:#2E6634;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+	M140.9,106.7v24.1h99.7c-5.7-9.5-15.3-15.7-29.9-21.4c-4.5-1.7-9.2-2.7-14-2.7C196.7,106.7,140.9,106.7,140.9,106.7z"/>
+</svg>
